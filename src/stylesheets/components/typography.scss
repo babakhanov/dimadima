@@ -1,65 +1,21 @@
-@include font-face('ProximaNova', 'ProximaNova-thin', 100);
-@include font-face('ProximaNova', 'ProximaNova-thin-italic', 100, italic);
+$weights: (
+  ('thin', 100),
+  ('light', 300),
+  ('regular', 400),
+  ('semibold', 500),
+  ('bold', 700),
+  ('extrabold', 800),
+  ('black', 900),
+);
 
-@include font-face('ProximaNova', 'ProximaNova-light', 300);
-@include font-face('ProximaNova', 'ProximaNova-light-italic', 300, italic);
+$families: ('ProximaNova', 'ProximaNova-condensed', 'ProximaNova-extra-condensed');
 
-@include font-face('ProximaNova', 'ProximaNova-regular');
-@include font-face('ProximaNova', 'ProximaNova-regular-italic', 400, italic);
-
-@include font-face('ProximaNova', 'ProximaNova-semibold', 500);
-@include font-face('ProximaNova', 'ProximaNova-semibold-italic', 500, italic);
-
-@include font-face('ProximaNova', 'ProximaNova-bold', 700);
-@include font-face('ProximaNova', 'ProximaNova-bold-italic', 700, italic);
-
-@include font-face('ProximaNova', 'ProximaNova-extrabold', 800);
-@include font-face('ProximaNova', 'ProximaNova-extrabold-italic', 800, italic);
-
-@include font-face('ProximaNova', 'ProximaNova-black', 900);
-@include font-face('ProximaNova', 'ProximaNova-black-italic', 900, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-thin', 100);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-thin-italic', 100, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-light', 300);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-light-italic', 300, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-regular');
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-regular-italic', 400, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-semibold', 500);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-semibold-italic', 500, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-bold', 700);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-bold-italic', 700, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-extrabold', 800);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-extrabold-italic', 800, italic);
-
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-black', 900);
-@include font-face('ProximaNova-condensed', 'ProximaNova-condensed-black-italic', 900, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-thin', 100);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-thin-italic', 100, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-light', 300);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-light-italic', 300, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-regular');
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-regular-italic', 400, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-semibold', 500);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-semibold-italic', 500, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-bold', 700);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-bold-italic', 700, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-extrabold', 800);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-extrabold-italic', 800, italic);
-
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-black', 900);
-@include font-face('ProximaNova-extra-condensed', 'ProximaNova-extra-condensed-black-italic', 900, italic);
+@each $family in $families {
+  @each $weight in $weights {
+    @include font-face($family, #{$family}-#{nth($weight, 1)}, nth($weight, 2));
+    @include font-face($family, #{$family}-#{nth($weight, 1)}-italic, nth($weight, 2), italic);
+  }
+}
 
 body {
   font-family: ProximaNova;
