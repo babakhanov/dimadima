@@ -1,0 +1,51 @@
+@include font-face('ProximaNova', 'ProximaNova-thin', 100);
+@include font-face('ProximaNova', 'ProximaNova-thin-italic', 100, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-light', 300);
+@include font-face('ProximaNova', 'ProximaNova-light-italic', 300, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-regular');
+@include font-face('ProximaNova', 'ProximaNova-regular-italic', 400, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-semibold', 500);
+@include font-face('ProximaNova', 'ProximaNova-semibold-italic', 500, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-bold', 700);
+@include font-face('ProximaNova', 'ProximaNova-bold-italic', 700, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-extrabold', 800);
+@include font-face('ProximaNova', 'ProximaNova-extrabold-italic', 800, italic);
+
+@include font-face('ProximaNova', 'ProximaNova-black', 900);
+@include font-face('ProximaNova', 'ProximaNova-black-italic', 900, italic);
+
+body {
+  font-family: ProximaNova;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.font {
+  &-thin {
+    font-weight: 100;
+  }
+  &-light {
+    font-weight: 300;
+  }
+  &-bold {
+    font-weight: 700;
+  }
+  &-black {
+    font-weight: 900;
+  }
+  &-extrabold {
+    font-weight: 800;
+  }
+  &-italic {
+    font-style: italic;
+  }
+  &-semibold {
+    font-weight: 500;
+  }
+}
+
