@@ -1,0 +1,331 @@
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-thin-italic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-light-italic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-regular-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-semibold-italic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-bold-italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-extrabold-italic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black-italic.svg#ProximaNova") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova/ProximaNova-black-italic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-thin-italic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-light-italic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-regular-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-semibold-italic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-bold-italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-extrabold-italic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black-italic.svg#ProximaNova-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-condensed/ProximaNova-condensed-black-italic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-thin-italic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-light-italic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-regular-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-semibold-italic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-bold-italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-extrabold-italic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "ProximaNova-extra-condensed";
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black-italic.eot");
+  src: url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black-italic.svg#ProximaNova-extra-condensed") format("svg"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black-italic.eot?#iefix") format("embedded-opentype"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black-italic.woff") format("woff"), url("https://babakhanov.github.io/dimadima/fonts/ProximaNova-extra-condensed/ProximaNova-extra-condensed-black-italic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+body {
+  font-family: ProximaNova;
+  font-weight: 400;
+  font-size: 20px;
+  display: table;
+  width: 100%; }
+
+div {
+  display: table-cell;
+  width: 33.3%; }
+
+.font-thin {
+  font-weight: 100; }
+
+.font-light {
+  font-weight: 300; }
+
+.font-bold {
+  font-weight: 700; }
+
+.font-black {
+  font-weight: 900; }
+
+.font-extrabold {
+  font-weight: 800; }
+
+.font-italic {
+  font-style: italic; }
+
+.font-semibold {
+  font-weight: 500; }
+
+.font-cond {
+  font-family: ProximaNova-condensed; }
+
+.font-extra-cond {
+  font-family: ProximaNova-extra-condensed; }
